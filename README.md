@@ -1,18 +1,16 @@
-# Challenge: Oracle ONE + Alura , Iniciante em Programação!
-<br>
+<h1 align ="center">Challenge: Oracle ONE + Alura , Iniciante em Programação!</h1>
+
 
  <div align ="center">
- <img  src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/share_image.jpg" />
+ <img  src="https://github.com/Celsohsl/Challenge-Oracle-ONE-Alura-Jogo-da-forca/blob/main/readme_images/share_image1.jpg" />
  </div> 
  
 <h2 align ="center">Screenshots</h2>
 
 
  <div align ="center">
- <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador.png" />
- 
- <img src="https://github.com/Celsohsl/Challenge_Alura_Oracle_One_Iniciante_em_Programacao/blob/main/readme_images/codificador%201.png" />
- 
+ <img src="https://github.com/Celsohsl/Challenge-Oracle-ONE-Alura-Jogo-da-forca/blob/main/readme_images/forca1.jpg" />
+ <img src="https://github.com/Celsohsl/Challenge-Oracle-ONE-Alura-Jogo-da-forca/blob/main/readme_images/forca.jpg" />
 </div>
 
 <h2 align ="center">Sobre o desafio 📝<br>
