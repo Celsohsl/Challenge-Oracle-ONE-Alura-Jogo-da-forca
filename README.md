@@ -15,7 +15,7 @@
  
 </div>
 
-<h2 align ="center">Sobre o desafio 📜<br>
+<h2 align ="center">Sobre o desafio 📝<br>
 Construir  Jogo da Forca com Javascript</h2>
 
 ### Projeto Proposto:  
